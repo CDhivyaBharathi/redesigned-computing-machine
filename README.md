@@ -1,1 +1,1 @@
-# redesigned-computing-machine
+# PRO-C174-Teacher-Boilerplate
